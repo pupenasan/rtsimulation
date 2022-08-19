@@ -2,6 +2,8 @@
 
 Edited by Katalin Popovici Pieter J Mosterman
 
+![image-20220819231245628](media/image-20220819231245628.png)
+
 ## [Introduction](intro.md)
 
 ## Section i  Basic Simulation technologies and Fundamentals
@@ -21,6 +23,12 @@ Roy Crosbie
 ### [Chapter 2](2.md). Formalized Approach for the Design of Real-Time Distributed Computer Systems  
 
 Ming Zhang, Bernard Zeigler, and Xiaolin Hu
+
+- [2.1](2_1.md) Introduction 
+- [2.2](2_2.md)   Formal Approaches to the Design of Real-Time Distributed Computer Systems
+- [2.3](2_3.md)     DEVS as a Model-Based Design Formalization Tool
+- [2.4](2_4.md)     DEVS-Based Formal Design Approaches for Real-Time Distributed Computing Systems
+- [2.5](2_5.md)   Summary 
 
 ### [Chapter 3](3.md). Principles of DEVS Model Verification for Real-Time Embedded Applications
 
