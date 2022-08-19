@@ -1,6 +1,6 @@
 # REAL-TIME SIMULATION TECHNOLOGIES Principles, Methodologies, and Applications
 
-Edited by Katalin Popovici Pieter J Mosterman
+Edited by Katalin Popovici Pieter J Mosterman 
 
 ![image-20220819231245628](media/image-20220819231245628.png)
 
